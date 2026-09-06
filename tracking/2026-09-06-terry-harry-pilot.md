@@ -2,7 +2,7 @@
 
 Date: 2026-09-06  
 Owner: Cody  
-Status: In progress
+Status: Passed
 
 ## Purpose
 
@@ -24,5 +24,11 @@ Remove only the two newly installed skill directories from the verified target s
 
 ## Evidence
 
-Test results, exact runtime paths, commit reference, receipts, and rollback verification will be added after the live tests.
-
+- Z AI Skill Developer structural validation passed with a 59-line `SKILL.md`.
+- GitHub package published to `ZedBiz44/z-graphic-production-Skill`.
+- Terry discovered both production and critique as eligible and model-visible from `/home/node/.openclaw/workspace/skills/`.
+- Terry created, critiqued, inspected, and durably saved a 1254 by 1254 PNG. He correctly refused to claim an unconfirmed first delivery, then used the unchanged-resend lane. Discord media message ID: `1546259257085796383`.
+- Harry discovered both production and critique as eligible and model-visible from `/root/.openclaw-harry/workspace/skills/`.
+- Harry created, critiqued, inspected, and durably saved a 1254 by 1254 PNG. The outer delivery reported sent without a media ID, so it was not accepted as image proof. The unchanged-resend lane returned Discord media message ID: `1546260730473349270`.
+- The live finding tightened the skill: a wrapper-level sent result or text-only result is not proof of image delivery when no media message ID or attachment read-back exists.
+- No unrelated skill directories or channel configuration were changed.
