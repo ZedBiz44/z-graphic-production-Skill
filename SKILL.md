@@ -49,11 +49,10 @@ Choose the correct lane in [channel delivery](references/channel-delivery.md):
 - **Current-chat generated image:** use the runtime's built-in image completion or native handoff. Do not manually attach a temporary generation path.
 - **Resend or separate file delivery:** stage the exact final file in the runtime's approved media folder, use the supported structured media send, and require a channel-confirmed media receipt.
 
-A generic success flag, `delivery_ambiguous`, or missing message ID is not confirmed delivery. Make one safe retry after correcting a known path or format problem. If still unconfirmed, tell the requester plainly and preserve the approved file for recovery.
+A generic or wrapper-level success flag, `delivery_ambiguous`, a text-only result, or missing media message ID is not confirmed image delivery. Make one safe retry after correcting a known path or format problem. If still unconfirmed, tell the requester plainly and preserve the approved file for recovery.
 
 ## Finish the Work
 
 Report the asset version, saved location when applicable, review status, delivery destination, and confirmed receipt. Never claim delivery from the absence of an error.
 
 Save only compact, verified lessons after a real recovery or durable decision. Do not put raw chats, logs, images, or temporary paths into memory. Follow [memory and evidence](references/memory-and-evidence.md).
-
