@@ -24,4 +24,3 @@ Check only what applies to the requested asset and its final use.
 
 Do not claim that links, QR codes, accessibility, legal rights, print settings, or platform compliance passed unless they were actually checked.
 
-

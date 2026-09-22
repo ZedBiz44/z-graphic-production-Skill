@@ -12,4 +12,3 @@ Record the situation, verified lesson, authoritative technical record, and date.
 
 Keep technical evidence in the approved GitHub issue or repository. Keep operating guidance in the approved Notion SOP. Memory should point to those sources rather than duplicating them.
 
-

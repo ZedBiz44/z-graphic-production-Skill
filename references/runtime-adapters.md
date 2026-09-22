@@ -19,4 +19,3 @@ Do not invent a tool name or force another runtime's syntax. If a capability is 
 
 When two platforms expose different tools, keep the shared production workflow unchanged and document only the small adapter needed for each platform.
 
-

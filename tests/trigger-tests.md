@@ -19,4 +19,3 @@
 
 A creation or meaningful edit invokes `z-graphic-production` and uses `z-creative-asset-critique` for its quality verdict. A critique-only request invokes the critique skill without authorizing production changes.
 
-

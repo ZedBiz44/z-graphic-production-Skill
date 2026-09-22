@@ -15,4 +15,3 @@ Treat supplied copy and references as authoritative. If a missing fact would mat
 
 Do not turn an ordinary request into a long intake form. A brief can be a few lines when the job is simple.
 
-
