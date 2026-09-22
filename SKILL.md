@@ -17,7 +17,7 @@ Read [creative brief](references/creative-brief.md) before meaningful creation o
 
 ## Establish Creative Direction When Needed
 
-For a still-graphic create request about attention, curiosity or audience interest, use `z-creative-asset-analysis` first when the brief lacks a usable hook or direction. Production coordinates the combined job; the VA does not need to authorize each ordinary internal handoff again.
+For a still-graphic create request about attention, curiosity or audience interest, use `z-creative-asset-analysis` first unless the brief already has a specific, relevant, approved hook. A missing, generic, sensational, or disconnected hook is not usable. Production coordinates the combined job; the VA does not need to authorize each ordinary internal handoff again.
 
 Use its Creative Direction Record for audience, communication job, recommended hook and copy, visual idea, payoff, protected elements and known output requirements. Distinguish Proposed copy from approved facts; reuse existing assignment authority and clarify only a material change outside it.
 
