@@ -18,3 +18,4 @@ Treat `success: false`, `delivery_ambiguous`, a missing message ID, or a text-on
 After a correctable path or format error, make one safe retry. If delivery remains unconfirmed, say so plainly, retain the approved file, and report the recovery location or next required action.
 
 Channel transport rules may differ across Telegram, Discord, and future channels. Do not change the production and critique standards to solve a transport-specific problem.
+

@@ -1,5 +1,9 @@
 # Critique Handoff
 
+When analysis supplied a Creative Direction Record, include it with the exact current asset/version. Preserve the agreed hook, proposed-versus-approved copy status, payoff location, source facts and protected elements. Do not repeat intake or substitute an earlier draft.
+
+Critique owns execution readiness against that direction. A polished draft that fails to carry the agreed hook needs a bounded fix. A strategic conflict returns as one precise question to analysis; after one return, escalate unresolved direction to the assignment owner. Keep the existing correction limits and production's final-file checks.
+
 Use this small packet when asking `z-creative-asset-critique` to review work:
 
 - Actual asset and version

@@ -15,6 +15,16 @@ Use this skill to create or edit marketing graphics, social images, ad creative,
 
 Read [creative brief](references/creative-brief.md) before meaningful creation or editing. Read only the other reference files needed for the requested operation.
 
+## Establish Creative Direction When Needed
+
+For a still-graphic create request about attention, curiosity or audience interest, use `z-creative-asset-analysis` first when the brief lacks a usable hook or direction. Production coordinates the combined job; the VA does not need to authorize each ordinary internal handoff again.
+
+Use its Creative Direction Record for audience, communication job, recommended hook and copy, visual idea, payoff, protected elements and known output requirements. Distinguish Proposed copy from approved facts; reuse existing assignment authority and clarify only a material change outside it.
+
+If analysis is unavailable, use an already adequate approved brief. Otherwise state the missing capability and return a proposed direction for the assignment owner's decision; do not claim the analysis companion ran or that a brief is a finished graphic.
+
+Skip concept analysis for resize/resend or a clear approved direction. Send critique the agreed direction and exact current draft. If critique exposes a strategic weakness, return one precise question to analysis; escalate an unresolved conflict after that return rather than cycling indefinitely.
+
 ## Produce the Graphic
 
 - Use the image provider and tools available in the active runtime. Follow their current operating restrictions.

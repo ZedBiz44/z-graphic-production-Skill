@@ -20,3 +20,4 @@ Given a previously approved final file, the agent confirms the file and destinat
 
 Given `delivery_ambiguous` or no message ID, the agent does not claim success. It makes at most one safe recovery attempt after correcting a known problem, then reports unconfirmed delivery plainly and preserves the approved file.
 
+
