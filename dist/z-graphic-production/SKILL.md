@@ -74,3 +74,7 @@ For social posts, save the exact final graphic and matching social post text tog
 Report the asset version, saved location when applicable, review status, delivery destination, and confirmed receipt. Never claim delivery from the absence of an error.
 
 Save only compact, verified lessons after a real recovery or durable decision. Do not put raw chats, logs, images, or temporary paths into memory. Follow [memory and evidence](references/memory-and-evidence.md).
+
+## Social-post operating sources
+
+Read the current [shared framework](https://app.notion.com/p/3e4a3e33d581811f9983cb136fbc7fe3) for the social-post process. Use its [Social Media Post Brief](https://app.notion.com/p/3eaa3e33d5818057a095cf3b35d2a1e9) as the only brief template. Supplied copies of an assignment brief may be used when direct Notion access is unavailable; state any material access gap.

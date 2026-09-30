@@ -1,9 +1,9 @@
 {
-  "SKILL.md": "f1b4b17bf50d769627c9f85d631d572349b1fc0e517c49d500e71724cf52a99c",
-  "references/brief-requirements.md": "4c99c37746bf066fd22a33c1cc49bd2997381b971c0ad6b37058f3f8bc6793e1",
-  "references/channel-delivery.md": "c72af454a88a49d2333dfc338304335e8768dc3cd561b1fe7f6e6b993e8d17be",
-  "references/critique-handoff.md": "d75d915913c00a563d464922c1805dbfc18591ffb27233fe052aa87a0254a63e",
-  "references/memory-and-evidence.md": "ef841cd8485c737cd493fd1dfc20670041e883efc69ce2508966a720ca021fef",
-  "references/production-output-checks.md": "fcdb94ac0a1a29192354df20cff2c2d1e13f1adfbeb32c979a19989a4cd55c05",
-  "references/runtime-adapters.md": "e03815fed09f54c7148f494d9b19f9ccbcfbfa2a51d4031ab55842c6d9b18f27"
+  "SKILL.md": "867ab1f5f9c9ec414333bf92182b827d6ae4800d4c22a25e74bf968768b0832b",
+  "references/brief-requirements.md": "f85b58c335474697cffaa87278bfd95af2f4ca4e943e437c67c7b022b1688671",
+  "references/channel-delivery.md": "e261f668d94ccfd9e02a2e2d6b22d5c5fd5bf69878835b6d1332d3f16603d832",
+  "references/critique-handoff.md": "c9f1ad5b7dd541a7e9bea8299a6e02a6d1218d5b93f63864f78a021cd8fd846c",
+  "references/memory-and-evidence.md": "c5e0bbef9a1621d230236a25732ecb701a847ab718ce3740f359386c93e76d99",
+  "references/production-output-checks.md": "f5fb38192443bc935c26d161e302e3a432ffc6059386d27d7ae61e5357ec3ffc",
+  "references/runtime-adapters.md": "fa5d87dd59fd24f94c417d7f2dff464fb794abd683c82aae773c4b88b80fd8bf"
 }
