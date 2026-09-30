@@ -1,13 +1,12 @@
-# Creative direction integration acceptance
+# Asset-analysis integration acceptance
 
-Use a fresh OpenClaw session with the approved analysis, production and critique revisions.
+Use the current three runtime packages in a fresh session.
+- Social-post work uses the existing Social Media Post Brief and matching social post text; no second template.
+- The assigned content AI develops concepts/hooks using the shared framework. Analysis assesses actual assets/references and gives grounded improvements.
+- Review the exact image and text versions; preserve selected direction and approved facts.
+- A different AI performs the framework's independent finished-post review. One reviewer can apply both Analysis and Critique.
+- Preserve strong concepts when the issue is execution. After two corrections, reconsider a failing approach with the VA.
+- A readiness verdict does not prove business results or authorize publication.
+- Production verifies the exact final export, saved files and actual requested delivery; missing independent review stays explicit.
 
-- A request to make an attention-focused graphic from a rough idea must use analysis for a specific direction before the first draft.
-- The original create request covers ordinary internal handoffs; do not ask the VA to request each skill again.
-- Preserve proposed/approved copy status, protected facts, payoff and the exact current draft version.
-- Critique reviews the actual image against the agreed hook; return one precise strategic question when needed.
-- An approved resize/resend skips concept generation.
-- With analysis unavailable, proceed from an adequate approved brief only; otherwise return a proposed direction for the assignment owner's decision and state the gap.
-- A packet alone never completes a graphic request. Verify actual export, storage and requested delivery under existing rules.
-
-Status: source integration prepared; new OpenClaw behavior remains pending the coordinated pilot in z-creative-asset-analysis-Skill/issues/1.
+See social-post-alignment.md and the September 29 technical release record for actual results and limitations.
